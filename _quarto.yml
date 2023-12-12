@@ -4,7 +4,7 @@ project:
 
 website:
   title: "wwri.github.io"
-  favicon: WWRI_logo.png
+  favicon: images/WWRI_logo.png
   navbar:
     left:
       - href: index.qmd
